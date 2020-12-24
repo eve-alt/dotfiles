@@ -6,4 +6,4 @@ but personalized to my liking
 
 repos:
 
-[.tmux](https://github.com/gpakosz/.tmux)
+[gpakosz's .tmux](https://github.com/gpakosz/.tmux)
